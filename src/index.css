@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    font-family: 'Mulish', sans-serif !important;
+    color: #fff;
+}
+.contact {
+    background-image: url("./img/Contact.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
